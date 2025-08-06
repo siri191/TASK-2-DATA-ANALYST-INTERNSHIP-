@@ -1,4 +1,4 @@
-# 📊 Sample Superstore Profit Report – Power BI Dashboard
+# 📊 Sample SuperstMore Profit Report – Power BI Dashboard
 
 ## 🎯 Objective
 To create a compelling and insightful Power BI dashboard using Sample Superstore data, focused on profit analysis across regions, segments, and product categories. The dashboard aims to enable quick decision-making through data-driven storytelling.
@@ -31,7 +31,6 @@ To create a compelling and insightful Power BI dashboard using Sample Superstore
 * `README.md` – Project documentation
 * `SampleSuperstore.pbix` – Power BI Report file
 * `dashboard.png` – Screenshot of the dashboard
-
 
 ## 🚀 Outcome
 This project helped develop skills in:
