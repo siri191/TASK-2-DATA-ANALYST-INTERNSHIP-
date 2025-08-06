@@ -1,0 +1,37 @@
+# 📊 Sample Superstore Profit Report – Power BI Dashboard
+
+## 🎯 Objective
+To create a compelling and insightful Power BI dashboard using Sample Superstore data, focused on profit analysis across regions, segments, and product categories. The dashboard aims to enable quick decision-making through data-driven storytelling.
+## 🛠️ Tools Used
+* Microsoft Power BI
+* Sample Superstore Dataset (fictional business data)
+
+## 📊 Key Visuals in the Dashboard
+* 📈 **Profit Trend (Year & Quarter)**
+* 🌍 **Profit by Region**
+* 👥 **Profit by Segment**
+* 🧹 **Profit by Category**
+* 🗂️ **Profit by Sub-Category**
+* 📋 **Detailed Profit Table by Region and Sub-Category**
+
+## 🔍 Key Insights
+* 🏆 **West Region** generated the highest profit (37.86%)
+* 💻 **Technology** category contributed over 50% of total profits
+* 📰 **Copiers** and 📱 **Phones** are the top sub-categories
+* 📈 Strong profit growth observed between 2015 and 2017
+* 🧑‍💼 **Corporate** and **Consumer** segments are highly profitable
+
+## 🗼️ Dashboard Screenshot
+
+![Dashboard](dashboard.png)
+## 📁 Files Included
+* `README.md` – Project documentation
+* `SampleSuperstore.pbix` – Power BI Report file
+* `dashboard.png` – Screenshot of the dashboard
+
+
+## 🚀 Outcome
+This project helped develop skills in:
+* Data storytelling and visual communication
+* Effective chart selection and dashboard design
+* Extracting key insights from business data
